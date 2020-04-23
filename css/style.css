@@ -1,0 +1,98 @@
+body{
+    direction: rtl;
+    display: flex;
+}
+.rightSaid{
+    border: 1px black solid;
+    width: 40%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.loginForm{
+    width: 76%;
+    height: 80vh;
+    flex-direction:column;
+    padding-bottom: 50px;
+}
+
+.vorod{
+    color: #3d9ce9;
+}
+
+.formTitle{
+width: 100%;
+margin-bottom: 60px;
+}
+
+.P1{
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+
+.P2{
+    margin-bottom: 10px;
+    font-size: 13px;
+    color: #b7b7b7;
+}
+
+.inputDiv{
+    width: 100%;
+ 
+}
+.input{
+    width: 100% ;
+    display: flex;
+
+    
+}
+.user{
+    width: 90% ;
+    padding: 11px;
+    border: none;
+    margin-bottom: 15px;
+    border-bottom: 0.1px;
+    outline: none;
+    color: #e9e9e9;
+    border-bottom:2px solid #e9e9e9;
+}
+
+.formSecurity{
+    width: 100%;
+    display: flex;
+    margin: 10px;
+}
+
+.security{
+    border: none;
+    margin-bottom: 15px;
+    border-bottom: 0.1px;
+    outline: none;
+    color: #e9e9e9;
+    border-bottom:2px solid #e9e9e9;
+    padding: 11px;
+}
+
+
+button{
+    width: 90% ;
+    padding: 15px;
+    border-radius: 4px;
+    font-family: shabnam;
+    border: none;
+    background-color: #0093ed;
+    color:white;
+    font-size: 16px;
+    margin-bottom: 20px;
+   
+
+}
+
+.remrember{
+    width: 100%;
+    display: flex;
+    justify-content: start;
+}
+
